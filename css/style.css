@@ -18,7 +18,7 @@ body {
 }
 
 /* Write all remaining styles here */
-.wrapper header h1{
+header{
 	background: #fff;
 	border-bottom: 5px;
 }
