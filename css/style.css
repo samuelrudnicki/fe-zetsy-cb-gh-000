@@ -1,13 +1,5 @@
 /*////////////// Fonts //////////////*/
-@font-face {
-  font-family: 'Baskerville';
-  src: url('fonts/Baskerville.eot'); /* IE9 Compat Modes */
-  src: url('fonts/Baskerville.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('fonts/Baskerville.woff2') format('woff2'), /* Super Modern Browsers */
-       url('fonts/Baskerville.woff') format('woff'), /* Pretty Modern Browsers */
-       url('fonts/Baskerville.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('Baskerville.svg#svgFontName') format('svg'); /* Legacy iOS */
-}
+@import url('https://fonts.googleapis.com/css2?family=Baskervville&display=swap');
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
@@ -27,7 +19,7 @@ body {
 
 /* Write all remaining styles here */
 header {
-	font-family: 'Baskerville';
+	font-family: 'Baskervville', serif;
 	border-bottom: 1px solid rgb(209,209,209);
 }
 h1 {
