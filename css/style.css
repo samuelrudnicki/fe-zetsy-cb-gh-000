@@ -1,5 +1,13 @@
 /*////////////// Fonts //////////////*/
-
+@font-face {
+  font-family: 'Baskerville';
+  src: url('Baskerville.eot'); /* IE9 Compat Modes */
+  src: url('Baskerville.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Baskerville.woff2') format('woff2'), /* Super Modern Browsers */
+       url('Baskerville.woff') format('woff'), /* Pretty Modern Browsers */
+       url('Baskerville.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Baskerville.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
