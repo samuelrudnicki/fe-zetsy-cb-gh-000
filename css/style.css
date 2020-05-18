@@ -6,7 +6,7 @@
        url('fonts/Baskerville.woff2') format('woff2'), /* Super Modern Browsers */
        url('fonts/Baskerville.woff') format('woff'), /* Pretty Modern Browsers */
        url('fonts/Baskerville.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('fonts/Baskerville.svg#svgFontName') format('svg'); /* Legacy iOS */
+       url('Baskerville.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 /* link the web font used for the level 1 heading here */
 
@@ -15,7 +15,7 @@
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Baskerville', serif;
+	font-family: 'Times New Roman', serif;
 }
 
 .wrapper {
