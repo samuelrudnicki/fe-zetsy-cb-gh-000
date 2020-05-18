@@ -30,8 +30,9 @@ header {
 	background: rgb(156,170,166);
 	border-bottom: 5px;
 	border-color: black;
+	color = red;
 }
 h1 {
-	color = red;
+	
 	font-style: 'Baskerville';
 }
