@@ -50,6 +50,9 @@ p {
 #featured img {
 	border: 5px solid rgb(107,130,126);
 }
+#featured a {
+	color: rgb(23,131,187)
+}
 #press {
 	margin-bottom: 20px;
 }
