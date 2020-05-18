@@ -23,6 +23,7 @@ body {
 /* Write all remaining styles here */
 header {
 	color: rgb(156,170,166);
+	text-decoration: none;
 }
 
 h1 {
