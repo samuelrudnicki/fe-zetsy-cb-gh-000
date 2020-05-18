@@ -51,6 +51,7 @@ p {
 	border: 5px solid rgb(107,130,126);
 }
 #featured a {
+	text-decoration: none;
 	color: rgb(23,131,187)
 }
 #press {
