@@ -39,17 +39,19 @@ h2 {
 	color: rgb(107,130,126);
 	font-size: 2em;
 }
-
 p {
 	font-size: 1em;
 	color: #555;
 }
-.featured {
+
+#featured {
 	text-decoration: none;
 }
-.featured img {
+#featured img {
 	border: 5px solid rgb(107,130,126);
-
+}
+#press {
+	margin-bottom: 20px;
 }
 footer {
 	display: block;
