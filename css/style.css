@@ -29,5 +29,9 @@ h1 {
 	font-family: 'Baskerville', serif;
 	border-bottom: 1px solid rgb(209,209,209);
 	padding-bottom: 10px;
+}
 
+h2 {
+	color: rgc(151,175,199);
+	font-size: 2em;
 }
