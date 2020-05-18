@@ -54,4 +54,5 @@ p {
 footer {
 	font-size: 0.75em;
 	float: right;
+	margin: 10px auto;
 }
