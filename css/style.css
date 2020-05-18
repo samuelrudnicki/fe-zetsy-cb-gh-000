@@ -26,11 +26,11 @@ body {
 }
 
 /* Write all remaining styles here */
-.wrapper header {
+header {
 	background: rgb(156,170,166);
+	color: red;
 	border-bottom: 5px;
 	border-color: black;
-	color = red;
 }
 h1 {
 	font-style: 'Baskerville';
