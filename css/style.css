@@ -30,7 +30,7 @@ header {
 	background: #eee;
 	font-style: 'Baskerville';
 	color: rgb(156,170,166);
-	border: 1px solid #000;
+	border-bottom: 1px solid #000;
 }
 h1 {
 
