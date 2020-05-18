@@ -19,7 +19,7 @@ body {
 
 /* Write all remaining styles here */
 header{
-	background: color = rgb(156,170,166);
+	background: rgb(156,170,166);
 	border-bottom: 5px;
 }
 h1 {
