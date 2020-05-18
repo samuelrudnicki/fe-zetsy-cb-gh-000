@@ -21,9 +21,10 @@ body {
 }
 
 /* Write all remaining styles here */
-h1 {
-	text-decoration: none;
+header {
 	color: rgb(156,170,166);
+}
+h1 {
 	font-size: 5em;
 	font-weight: normal;
 	display: block;
