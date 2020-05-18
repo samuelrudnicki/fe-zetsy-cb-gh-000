@@ -21,12 +21,10 @@ body {
 }
 
 /* Write all remaining styles here */
-header {
-	display: block;
-	font-family: 'Baskervville', serif;
-	border-bottom: 1px solid rgb(209,209,209);
-}
 h1 {
 	color: rgb(156,170,166);
 	font-size: 3em;
+	display: block;
+	font-family: 'Baskervville', serif;
+	border-bottom: 1px solid rgb(209,209,209);
 }
