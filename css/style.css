@@ -51,6 +51,9 @@ p {
 	text-decoration: none;
 	color: rgb(23,131,187)
 }
+#featured a:hover {
+	text-decoration: underline;
+}
 #press {
 	margin-bottom: 20px;
 }
