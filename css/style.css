@@ -27,7 +27,7 @@ body {
 
 /* Write all remaining styles here */
 header {
-	background: rgb(156,170,166);
+	background: #eee;
 	font-style: 'Baskerville';
 	color: rgb(156,170,166);
 	border-bottom: 5px;
