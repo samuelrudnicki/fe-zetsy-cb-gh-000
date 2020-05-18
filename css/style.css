@@ -23,7 +23,7 @@ body {
 /* Write all remaining styles here */
 h1 {
 	color: rgb(156,170,166);
-	font-size: 3em;
+	font-size: 5em;
 	display: block;
 	font-family: 'Baskervville', serif;
 	border-bottom: 1px solid rgb(209,209,209);
