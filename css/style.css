@@ -31,7 +31,7 @@ header{
 	border-bottom: 5px;
 	border-color: black;
 }
-header h1 {
+h1 {
 	color = red;
 	font-style: 'Baskerville';
 }
