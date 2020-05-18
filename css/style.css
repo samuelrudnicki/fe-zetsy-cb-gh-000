@@ -20,4 +20,5 @@ body {
 /* Write all remaining styles here */
 header {
 	background: #fff;
+	border-bottom: 5px;
 }
