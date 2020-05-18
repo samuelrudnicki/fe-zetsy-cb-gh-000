@@ -19,6 +19,7 @@ body {
 
 /* Write all remaining styles here */
 header {
+	display: block;
 	font-family: 'Baskervville', serif;
 	border-bottom: 1px solid rgb(209,209,209);
 }
