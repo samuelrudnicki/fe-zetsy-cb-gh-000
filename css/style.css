@@ -28,4 +28,5 @@ h1 {
 	display: block;
 	font-family: 'Baskerville', serif;
 	border-bottom: 1px solid rgb(209,209,209);
+	padding-bottom: 5px;
 }
