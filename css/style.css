@@ -29,9 +29,8 @@ body {
 header {
 	background: #eee;
 	font-style: 'Baskerville';
-	color: rgb(156,170,166);
 	border-bottom: 1px solid #000;
 }
 h1 {
-
+	color: rgb(156,170,166);
 }
