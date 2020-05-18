@@ -21,6 +21,7 @@ body {
 header{
 	background: rgb(156,170,166);
 	border-bottom: 5px;
+	border-color: black;
 }
 h1 {
 	color = rgb(156,170,166);
