@@ -21,9 +21,6 @@ body {
 }
 
 /* Write all remaining styles here */
-header {
-	color: rgb(156,170,166);
-}
 h1 {
 	font-size: 5em;
 	font-weight: normal;
