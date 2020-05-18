@@ -66,8 +66,7 @@ p {
 	padding: 1px;
 }
 footer {
-	display: block;
+	
+	text-align: right;
 	font-size: 0.75em;
-
-	margin-bottom: 20px;
 }
